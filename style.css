@@ -89,4 +89,16 @@ p {
         justify-items: center;
     }
 
+    body {
+        text-align: justify;
+    }
+
+    p {
+        padding-right: 20px;
+    }
+
+    h1 {
+        font-size: 27px;
+    }
+
 }
